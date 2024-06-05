@@ -1,0 +1,19 @@
+{
+  "name": "random-str-msg-n7",
+  "version": "1.0.0",
+  "description": "Creación paquete en NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Michell Ruiz <michell.ra47@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-str-msg-n7": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
